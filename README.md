@@ -57,7 +57,7 @@ The 0-to-1 stage holds a particular appeal. With limited resources and incomplet
 
 A guiding belief is that the most valuable capability in the AI era is understanding faster, thinking more deeply, and turning ideas into grounded action. AI can amplify speed; clear judgment, genuine empathy, and sustained effort determine the direction.
 
-![Ruby’s penguin: I'm off!](assets/ruby-penguin-illustrated-en.png)
+![Per aspera ad astra](assets/ruby-penguin-ad-astra.png)
 
 The aim is to keep creating things that make people more capable, make work more meaningful, and help people across the world understand one another, while giving good ideas a chance to cross languages, borders, and differences in resources.
 
