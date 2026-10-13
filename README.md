@@ -12,17 +12,17 @@
 <details open>
 <summary>关于 Ruby 🧭</summary>
 
-Ruby 从国际经济与贸易的专业背景与B2B、B2C、DTC等跨境出海业务出发，逐步深入全球市场、内容、用户增长与 AI 产品。自 2023 年起 All in AI，持续投入 AI 产品与 Agent 的创造，操盘了 5+ 个 Agent 项目；同时作为亚洲最大黑客松的早期共建成员，参与推动创作者从想法走向实践。
+Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC 等跨境出海业务，擅长统筹项目从规划、执行到落地与复盘的完整闭环，逐步将实践拓展至全球市场、内容、用户增长与 AI 产品。自 2023 年起 All in AI，持续投入 AI 产品与 Agent 的创造，操盘了 5+ 个 Agent 项目；同时作为 AdventureX 黑客松的早期共建成员，参与推动创作者与独立开发者从想法走向实践。
 
-她擅长连接技术、用户需求与增长，关注从 0 到 1 的创造，让模糊的想法成为真实可用的产品。
+**Get your hands dirty. 亲自下场，把想法做出来。**
 
 </details>
 
 <details>
 <summary>About Ruby 🌍</summary>
 
-With an academic background in International Economics and Trade and experience in B2B, B2C, and DTC cross-border business, Ruby has expanded into global markets, content, user growth, and AI products. Since going all in on AI in 2023, she has led 5+ Agent projects and contributed as an early co-builder of Asia’s largest hackathon, helping creators turn ideas into practice.
+Ruby has an academic background in International Economics and Trade and extensive hands-on experience in B2B, B2C, and DTC cross-border business. She excels at managing projects through the full cycle of planning, execution, delivery, and review, and has expanded her work into global markets, content, user growth, and AI products. Since going all in on AI in 2023, she has led 5+ Agent projects. As an early co-builder of the AdventureX hackathon, she also helps creators and indie developers turn ideas into practice.
 
-She connects technology, user needs, and growth, with a focus on building from 0 to 1 and turning unclear ideas into usable products.
+**Get your hands dirty. Step in and bring ideas to life.**
 
 </details>
