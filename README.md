@@ -28,6 +28,8 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 
 我相信 AI 时代最稀缺的能力，不只是知道更多，而是能够更快地理解、更深地思考，并且把想法扎实地做出来。AI 可以放大一个人的速度，但只有清晰的判断、真实的同理心和持续的行动，才能决定这种速度最终会把我们带向哪里。
 
+![Ruby 的企鹅：我出发了](assets/ruby-penguin-setting-off.png)
+
 我希望未来持续创造这样的东西：让人变得更有能力，让工作变得更有意义，让全球不同地方的人更容易理解彼此，也让更多好的想法有机会跨越语言、地域和资源的边界。
 
 我还在路上——一边探索世界，一边探索如何用技术和创造力，让世界因为我的参与而多一点连接、多一点可能。
@@ -52,6 +54,8 @@ My experience has given me several lenses at once: the realities of cross-border
 I am drawn to the 0-to-1 stage, when resources are limited, answers are incomplete, and every meaningful step requires curiosity and ownership. I am comfortable researching, writing, designing workflows, reading data, talking with users, and working across disciplines to move an idea forward. To me, execution is not what comes after creativity; it is one of the ways we understand a problem deeply enough to create something worthwhile.
 
 I believe the most valuable capability in the AI era is not simply knowing more. It is the ability to understand faster, think more deeply, and turn ideas into grounded action. AI can amplify speed, but clear judgment, genuine empathy, and sustained effort determine where that speed takes us.
+
+![Ruby 的企鹅：我出发了](assets/ruby-penguin-setting-off.png)
 
 I want to keep building things that make people more capable, make work more meaningful, and make it easier for good ideas to cross languages, borders, and differences in resources. I am still on the way—exploring the world while exploring how technology and creativity can create more connection and more possibility.
 
