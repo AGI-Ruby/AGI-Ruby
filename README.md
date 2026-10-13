@@ -12,11 +12,11 @@
 <details open>
 <summary>关于 Ruby 🧭</summary>
 
-Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC 等跨境出海业务。她的全球化探索由此展开：从海外市场进入（GTM），到内容传播与用户增长，她喜欢亲自参与项目从想法、规划到落地与复盘的全过程。曾操盘的项目累计获得 15 万+ 海外用户，相关项目在后续发展中获得超亿元融资。
+Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC 等跨境出海业务。她的全球化探索之旅自此展开：从进入海外市场，到内容传播与用户增长，她喜欢亲自参与一个项目从想法到落地的全过程，也擅长统筹规划、执行与复盘。曾推动所操盘项目成功进入海外市场（GTM），累计获得 15 万+ 海外用户；相关项目在后续发展中获得超亿元融资。
 
-自 2023 年起，Ruby All in AI，将市场与增长实践拓展至 SaaS 与 AI Agent，操盘了 5+ 个 Agent 项目。作为 AdventureX 黑客松的早期共建成员，她也参与推动创作者与独立开发者将想法变为现实。
+她也是 Solo Trip 爱好者，曾独自走过多个国家，走进当地的日常生活，感受不同地方的人文与风土，也与旅途中相遇的人结下了珍贵的友谊。这些经历让她对世界的理解，既来自市场与业务，也来自人与人之间具体而鲜活的连接。
 
-工作之外，她是一名 Solo Trip 爱好者，曾独自旅行多个国家，走近当地生活与人文，与不同文化背景的人建立珍贵的友谊。对她而言，探索全球市场、创造产品与独自旅行，都源于同一份好奇心：理解不同的人，并亲身探索更多可能。
+自 2023 年起，Ruby All in AI，持续投入 SaaS 与 AI Agent 的创造，至今操盘了 5+ 个 Agent 项目。作为 AdventureX 黑客松的早期共建成员，她也与创作者、独立开发者一起，把想法带进真实世界。
 
 **Get your hands dirty. 亲自下场，把想法做出来。**
 
@@ -45,11 +45,11 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 <details>
 <summary>About Ruby 🌍</summary>
 
-Ruby has an academic background in International Economics and Trade and extensive hands-on experience in B2B, B2C, and DTC cross-border business. This marked the beginning of her exploration of the world: from entering overseas markets through go-to-market (GTM) execution to content distribution and user growth, she enjoys being involved in the full journey of a project, from idea and planning to delivery and review. The projects she led acquired over 150,000 overseas users in total, and went on to secure over RMB 100 million in funding.
+Ruby has an academic background in International Economics and Trade and extensive hands-on experience in B2B, B2C, and DTC cross-border business. Her journey of global exploration began there: from entering overseas markets to content distribution and user growth, she enjoys taking part in the entire process of bringing a project from idea to reality, with experience coordinating planning, execution, and review. She has led go-to-market (GTM) efforts that brought projects into overseas markets and acquired over 150,000 overseas users in total; these projects later went on to secure over RMB 100 million in funding.
 
-Since going all in on AI in 2023, Ruby has expanded her market and growth practice into SaaS and AI agents, leading 5+ Agent projects. As an early co-builder of the AdventureX hackathon, she has also helped creators and indie developers turn ideas into reality.
+She also loves solo travel. She has traveled alone across several countries, immersed herself in everyday local life, explored their cultures and customs, and formed treasured friendships with people she met along the way. Her understanding of the world comes both from markets and business and from the tangible, vivid connections between people.
 
-Outside work, she loves solo travel. She has traveled alone across several countries, getting to know local life and culture and forming treasured friendships with people from different cultural backgrounds. For her, exploring global markets, creating products, and traveling solo share the same curiosity: understanding different people and discovering new possibilities firsthand.
+Since going all in on AI in 2023, Ruby has been creating SaaS and AI Agent products and has led 5+ Agent projects to date. As an early co-builder of the AdventureX hackathon, she also works alongside creators and indie developers to bring ideas into the real world.
 
 **Get your hands dirty. Step in and bring ideas to life.**
 
