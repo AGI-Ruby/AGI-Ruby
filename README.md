@@ -3,6 +3,12 @@
 
 > I build at the intersection of AI, global growth, and human possibility.
 
+### Currently exploring
+
+- AI-native workflows
+- Global growth and cross-border creation
+- Human-centered collaboration
+
 <details open>
 <summary>关于我 🧭</summary>
 
