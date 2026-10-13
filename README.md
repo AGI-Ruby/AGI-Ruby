@@ -1,5 +1,5 @@
 # Hello there! 👋 I am Ruby!
-n**AI × Global Growth × Human-Centered Creation**
+**AI × Global Growth × Human-Centered Creation**
 
 > I build at the intersection of AI, global growth, and human possibility.
 
