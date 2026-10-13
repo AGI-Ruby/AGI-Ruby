@@ -3,7 +3,7 @@
 > I build at the intersection of AI, global growth, and human possibility.
 
 <details open>
-<summary>关于我 🇨🇳</summary>
+<summary>关于我 🧭</summary>
 
 我从国际化与跨境业务出发，慢慢走进全球市场、内容、用户增长和 AI 产品。一路走来，我越来越确定，真正吸引我的并不是某一个职位标签，而是把一个模糊的想法，变成有人愿意使用、愿意相信、愿意继续参与的真实事物。
 
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>About Me 🇬🇧</summary>
+<summary>About Me 🌍</summary>
 
 I started with international business and cross-border work, then moved toward global markets, content, user growth, and AI products. Over time, I have become less interested in a single job title and more interested in a deeper question: how do we turn an unclear idea into something real—something people want to use, trust, and keep building with?
 
