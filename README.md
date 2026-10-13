@@ -16,6 +16,8 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 
 **Get your hands dirty. 亲自下场，把想法做出来。**
 
+![Global exploration, AI agents, and hands-on creation](assets/ruby-hands-on-banner.png)
+
 我从国际化与跨境业务出发，慢慢走进全球市场、内容、用户增长和 AI 产品。一路走来，我越来越确定，真正吸引我的并不是某一个职位标签，而是把一个模糊的想法，变成有人愿意使用、愿意相信、愿意继续参与的真实事物。
 
 我喜欢站在不同世界的交界处：用户与产品之间，技术与市场之间，直觉与数据之间，个人表达与群体协作之间。我的工作经常从一个问题开始——人们真正想完成什么？他们为什么还没有完成？我们能不能把复杂的事情变得更清楚、更有趣，也更容易开始？
@@ -38,6 +40,8 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 Ruby has an academic background in International Economics and Trade and extensive hands-on experience in B2B, B2C, and DTC cross-border business. She excels at managing projects through the full cycle of planning, execution, delivery, and review, and has expanded her work into global markets, content, user growth, and AI products. Since going all in on AI in 2023, she has led 5+ Agent projects. As an early co-builder of the AdventureX hackathon, she also helps creators and indie developers turn ideas into practice.
 
 **Get your hands dirty. Step in and bring ideas to life.**
+
+![Global exploration, AI agents, and hands-on creation](assets/ruby-hands-on-banner.png)
 
 I started with international business and cross-border work, then moved toward global markets, content, user growth, and AI products. Over time, I have become less interested in a single job title and more interested in a deeper question: how do we turn an unclear idea into something real—something people want to use, trust, and keep building with?
 
