@@ -32,7 +32,9 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 
 希望未来持续创造这样的东西：让人变得更有能力，让工作变得更有意义，让全球不同地方的人更容易理解彼此，也让更多好的想法有机会跨越语言、地域和资源的边界。
 
-探索仍在继续——一边认识世界，一边用技术和创造力，为这个世界多带来一点连接、多打开一点可能。
+探索仍在继续——
+
+一边认识世界，一边用技术和创造力，为这个世界多带来一点连接、多打开一点可能。
 
 </details>
 
@@ -59,6 +61,8 @@ A guiding belief is that the most valuable capability in the AI era is understan
 
 The aim is to keep creating things that make people more capable, make work more meaningful, and help people across the world understand one another, while giving good ideas a chance to cross languages, borders, and differences in resources.
 
-The exploration continues: learning about the world while using technology and creativity to build more connections and open up more possibilities.
+The exploration continues—
+
+Learning about the world while using technology and creativity to build more connections and open up more possibilities.
 
 </details>
