@@ -9,7 +9,7 @@
 - Global growth and cross-border creation
 - Human-centered collaboration
 
-<details open>
+<details>
 <summary>关于 Ruby 🧭</summary>
 
 Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC 等跨境出海业务。她的全球化探索之旅自此展开：从进入海外市场，到内容传播与用户增长，她喜欢亲自参与一个项目从想法到落地的全过程，也擅长统筹规划、执行与复盘。曾推动所操盘项目成功进入海外市场（GTM），累计获得 15 万+ 海外用户；相关项目在后续发展中获得超亿元融资。
@@ -42,7 +42,7 @@ Ruby 拥有国际经济与贸易专业背景，曾深度参与 B2B、B2C、DTC �
 
 </details>
 
-<details>
+<details open>
 <summary>About Ruby 🌍</summary>
 
 Ruby has an academic background in International Economics and Trade and extensive hands-on experience in B2B, B2C, and DTC cross-border business. Her journey of global exploration began there: from entering overseas markets to content distribution and user growth, she enjoys taking part in the entire process of bringing a project from idea to reality, with experience coordinating planning, execution, and review. She has led go-to-market (GTM) efforts that brought projects into overseas markets and acquired over 150,000 overseas users in total; these projects later went on to secure over RMB 100 million in funding.
